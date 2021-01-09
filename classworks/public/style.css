@@ -1,0 +1,15 @@
+h1 {
+    display: block;
+    font-size: 4em;
+    font-family: Helvetica;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    color: rgb(39, 144, 192);
+  }
+
+  body {background-color: #8ae6d9;}
+
+  a:link {color: rgb(199, 34, 214);}
